@@ -1,6 +1,6 @@
-# Customer Emotion Analysis System 📌
+# Customer Emotion Analysis System 
 
-## Introduction  
+##📌 Introduction  
 The **Customer Emotion Analysis System** is a powerful tool designed to analyze customer feedback from social media platforms, particularly Twitter, using **Natural Language Processing (NLP)** techniques. By identifying emotions, assessing their intensity, mapping them to relevant topics, and providing structured insights — including an engagement score (Adorescore) — businesses can understand customer sentiments effectively and respond accordingly.
 
 ---
